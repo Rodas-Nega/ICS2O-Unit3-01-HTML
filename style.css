@@ -1,0 +1,51 @@
+.intro { 
+  font-family: Georgia;
+  font-size: 150%;
+  text-align: center;
+} 
+
+.about { 
+  font-family: calibri;
+  font-size: 100%;
+  text-align: center;
+}
+
+.name { 
+  background-color: aliceblue;
+  color: crimson;
+  text-align: center;
+}
+
+.ending { 
+  position: fixed; 
+  bottom: 0;
+  background-color: crimson;
+  color: aliceblue;
+  text-align: center;
+}  
+
+.topic { 
+  background-color: grey;
+  font-family: calibri;
+  border-collapse: collapse; 
+  width: 100%;
+} 
+
+.info {
+  background-color: blanchedalmond;
+  border: 2px solid black;
+  padding: 2px; 
+  text-align: left;
+}  
+
+.interests {
+  background-color: coral;
+  color: black;
+  border: 2px solid purple;
+  text-align: center;
+}
+
+.rank {
+  color: rgb(51, 38, 5);
+  text-align: center;
+}
